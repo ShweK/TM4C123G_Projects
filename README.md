@@ -16,6 +16,8 @@ This repository contains a collection of embedded systems projects developed on 
 
 - Code Composer Studio (TI)
 - TivaWare Peripheral Driver Library
+    Download TivaWare from TI: https://www.ti.com/tool/SW-TM4C
+    Extract it somewhere, e.g., C:/ti/TivaWare_C_Series-2.2.0.295
 - Optional: GNU ARM + Makefile for CLI build
 
 ## 🧪 Hardware Used
